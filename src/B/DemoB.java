@@ -6,6 +6,12 @@ public class DemoB {
 		
 		System.out.println("Day1");
 		System.out.println("Day2");
+		
 	}
+	
+	public static void add(int a, int b ) {
+		System.out.println(a+b);
+	}
+
 
 }
